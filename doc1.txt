@@ -1,2 +1,9 @@
+
 This is first line in doc1 done in git1, add1
 This is second line in doc1 done in git1, add2
+
+
+#This is my first line written on 6thJan
+#This is the second line written on 6thJan 11am
+import numpy as np
+
