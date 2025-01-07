@@ -16,8 +16,14 @@ Writing a code in branch b1
 Writing another code and will commit before switching branches
 If i switch branches without commit the changes are going to be statshed in both branches
 
+#conflict2 manually addressed
+Adding a line from master to induce conflict. Will commit it
+
 Adding again to create a merge conflict. 
 Committed it already and creating another commit
 
 
+#This is conflict3, manually addressed while merging master with branch for updating branch for work
 Adding another line, attempting to merge master to branch
+
+
