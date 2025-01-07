@@ -7,3 +7,5 @@ This is second line in doc1 done in git1, add2
 #This is the second line written on 6thJan 11am
 import numpy as np
 
+This is my code written from main to induce merge conflict
+will commit and try to merge
