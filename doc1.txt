@@ -1,2 +1,3 @@
-This is my first line written on 6thJan
-This is the second line written on 6thJan 11am
+#This is my first line written on 6thJan
+#This is the second line written on 6thJan 11am
+import numpy as np
