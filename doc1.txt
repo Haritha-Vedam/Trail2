@@ -1,3 +1,4 @@
+Adding another line to commit from git gui
 #Adding another line to commit from git gui
 #Deleting somelines to create a new version
 #conflict2 manually addressed
