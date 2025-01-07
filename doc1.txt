@@ -1,0 +1,2 @@
+This is first line in doc1 done in git1, add1
+This is second line in doc1 done in git1, add2
