@@ -7,5 +7,12 @@ This is second line in doc1 done in git1, add2
 #This is the second line written on 6thJan 11am
 import numpy as np
 
+
 This is my code written from main to induce merge conflict
 will commit and try to merge
+
+#Resolving commit manually
+Writing a code in branch b1
+Writing another code and will commit before switching branches
+If i switch branches without commit the changes are going to be statshed in both branches
+
