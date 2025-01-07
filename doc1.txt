@@ -1,4 +1,4 @@
-
+#Adding another line to commit from git gui
 #Deleting somelines to create a new version
 #conflict2 manually addressed
 Adding a line from master to induce conflict. Will commit it
