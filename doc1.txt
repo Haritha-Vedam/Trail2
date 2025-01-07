@@ -16,3 +16,4 @@ Writing a code in branch b1
 Writing another code and will commit before switching branches
 If i switch branches without commit the changes are going to be statshed in both branches
 
+Adding a line from master to induce conflict. Will commit it
