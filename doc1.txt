@@ -12,3 +12,4 @@ Committed it already and creating another commit
 Adding another line, attempting to merge master to branch
 
 #Adding a line from branch b3
+#Adding a line from master
