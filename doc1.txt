@@ -11,4 +11,4 @@ Committed it already and creating another commit
 #This is conflict3, manually addressed while merging master with branch for updating branch for work
 Adding another line, attempting to merge master to branch
 
-
+#Adding a line from branch b3
