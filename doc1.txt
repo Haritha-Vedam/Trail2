@@ -18,3 +18,5 @@ Adding another line, attempting to merge master to branch
 
 #Deleting 6th line onwards for demonstrating branch
 
+#commiting from git gui
+
